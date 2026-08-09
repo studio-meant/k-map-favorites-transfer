@@ -1,0 +1,16 @@
+{
+  "name": "k-map-favorites-transfer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "chrome:cdp": "bash scripts/start-chrome-cdp.sh",
+    "interactive": "node scripts/interactive-transfer.mjs",
+    "transfer:cdp": "node scripts/transfer-cdp.mjs",
+    "discover": "node scripts/discover.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

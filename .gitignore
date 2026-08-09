@@ -1,0 +1,43 @@
+node_modules/
+out/**
+!out/k_to_n/
+!out/k_to_n/성북동/
+!out/k_to_n/성북동/report.md
+!out/n_to_k/
+!out/n_to_k/성북동-역방향/
+!out/n_to_k/성북동-역방향/report.md
+*.local.json
+.pw-user/
+.map-transfer-chrome/
+.map-transfer-cache/
+docs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local secrets / credentials
+.env
+.env.*
+!.env.example
+
+# Scratch probes and one-off live debugging scripts may contain personal folders,
+# place names, addresses, or map folder IDs.
+scripts/_*.mjs
+
+# Local run logs and browser/debug artifacts
+*.log
+coverage/
+.cache/
+tmp/
+temp/
+*.tmp
+*.bak
+test-results/
+playwright-report/
+blob-report/
+*.trace.zip
+*.har
+storage-state*.json
