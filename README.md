@@ -24,7 +24,7 @@
 - [카카오맵 -> 네이버맵 결과 리포트 예시 바로가기](out/k_to_n/성북동/report.md)
 - [네이버맵 -> 카카오맵 결과 리포트 예시 바로가기](out/n_to_k/성북동-역방향/report.md)
 
-https://github.com/user-attachments/assets/ec064689-8bb3-4650-827d-e878786730c5
+https://github.com/user-attachments/assets/95c655cc-b3d0-4887-9524-fc57265a1d6b
 
 ---
 
